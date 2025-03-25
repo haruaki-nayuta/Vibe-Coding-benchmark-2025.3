@@ -1,5 +1,6 @@
 # Vibe-Coding-benchmark-2025.3
-2025.3に実施したwindsurfとClaude Code、Claude Code MCPの実装を比較する実験結果のレポートです。
+2025.3に実施したwindsurfとClaude Code、Claude Code MCPの実装を比較する実験結果のレポートです。\
+(簡易版)
 <br/>
 <br/>
 <br/>
@@ -160,7 +161,7 @@ NPCは以下の状態を持つ状態マシンで行動を制御します：
 <br/>
 
 
-# 実験結果の分析、レポート
+# 詳細な分析・レポート
 
 そのうちZennで書きます。多分3月以内には投稿できるはず……
 <br/>
