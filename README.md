@@ -152,7 +152,7 @@ NPCは以下の状態を持つ状態マシンで行動を制御します：
 ```
  
 # リポジトリへのリンク
-[Windsurf版（MCP不使用）](https://github.com/haruaki-nayuta/Slither.io-Clone-ClaudeCode-Claude-3.7-Sonnet-noMCP)\
+[Windsurf版（MCP不使用）](https://github.com/haruaki-nayuta/Slither.io-Clone-Windsurf-Claude-3.7-Sonnet-noMCP)\
 [Windsurf版（ClaudeCodeMCP使用）](https://github.com/haruaki-nayuta/Slither.io-Clone-Windsurf-Claude-3.7-Sonnet-withClaudeCodeMCP)\
 [ClaudeCode版（MCP不使用）](https://github.com/haruaki-nayuta/Slither.io-Clone-ClaudeCode-Claude-3.7-Sonnet-noMCP)
 <br/>
